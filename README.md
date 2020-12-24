@@ -6,9 +6,9 @@ This project and the associated code is meant to serve as an assignment project 
 ## Project structure
 This project structure is divided into two directories:
 - ams-airbnb-amsterdam: Contains the two ipynb notebooks on analysis and modeling.
-  - Airbnb_Amsterdam.ipynb: 
-- Data: contains files with airbnb data from Amsterdam city
+  - Airbnb_Amsterdam.ipynb: Contains scripts for analyzing the data of Airbnb Amsterdam.
+  - Modelling.ipynb: Contains script for fitting regression models for price prediction.
+- Data: contains files with airbnb data from Amsterdam.
 
-## Running the scripts
-### Prerequisities
-The code presented in the two scripts has been tested with Python 
+## Additional information
+The code presented in the two scripts has been tested with Python 3.6 and Pandas 1.1.3. In case problems exist, feel free to post query and I will be responding as soon as possible.
